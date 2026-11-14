@@ -2,9 +2,11 @@
 
 A console shopping application written in Python 3. An admin can add, update, delete and view products. A customer can add products to a cart and check out. All products are saved in a file, so the data is still there the next time the program runs.
 
-**Name:** [Your Full Name]
-**ERP:** [Your ERP Number]
-**Section:** [Your Section]
+**Name:** Kishan Kumar Agrawal
+
+**ERP:** RU-26-03399
+
+**Section:** 1C
 
 ## Concepts used
 - Lists and dictionaries (products are a list of dictionaries, the cart is a dictionary)
